@@ -1,0 +1,4 @@
+End of haiku token found! Stopping generation prematurely
+[soh] moonlight dances soft,
+whispering secrets of golden wheat,
+illuminating the night.
